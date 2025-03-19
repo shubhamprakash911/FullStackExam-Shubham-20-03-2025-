@@ -16,7 +16,8 @@ This is the backend for a full-stack e-commerce application built with **Node.js
   - **Sales by Category Report** (MongoDB)
 - API Documentation available on **Postman**
   - [API Documentation on Postman](https://documenter.getpostman.com/view/24845617/2sAYkEqf2r)
-
+- Backend is deployed on **Render**
+  - [deployed backend](https://fullstackexam-shubham-20-03-2025.onrender.com/)
 ---
 
 ## 🏗️ Tech Stack
